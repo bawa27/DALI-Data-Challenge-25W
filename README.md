@@ -1,6 +1,6 @@
 # DALI-Data-Challenge-25W
 <p align="center">
-<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5smallg.png" width="400" height="400"> <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_big.png" width="400" height="400">
+<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5smallg.png" width="400" height="400"> <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5_large.png" width="400" height="400">
 </p>
 
 ## Overview
@@ -55,10 +55,10 @@ especially due to how many small, overlapping barnacles there were.
 Because we were only provided with 2 images, I used data augmentation heavily to increase the size of the dataset. I only increased to 100 images, as I was running out of time and resources, 
 but more images can be made as well. Transfer learning was also used to speed up the training process, as training a model from scratch would have taken too long and could result in significant overfitting
 due to the presence of essentially only augmented training images. The model was trained for 2000 iterations with a learning rate of 0.00025 on the model seen now.
-Final total losses were as low as 1.18, or <0.15 object loss. Approximate barnacle counts were ~130 for the smaller test image and ~750 for the large one. Some test images are provided below, and some more are at the top of this README.
+Final total losses were as low as 1.18, or <0.15 object loss. Approximate barnacle counts were ~130 for the smaller test image and ~750 for the large one. Some test images are provided below (from run 7), and some more are at the top of this README (run 5).
 
 <p align="center">
-<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5_large.png" width="400" height="400">  <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_small.png" width="400" height="400">
+<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_big.png" width="400" height="400">  <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_small.png" width="400" height="400">
 </p>
 
 
