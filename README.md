@@ -58,7 +58,7 @@ due to the presence of essentially only augmented training images. The model was
 Final total losses were as low as 1.18, or <0.15 object loss. Approximate barnacle counts were ~130 for the smaller test image and ~750 for the large one. Some test images are provided below, and some more are at the top of this README.
 
 <p align="center">
-<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5smallg.png" width="400" height="400">  <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_big.png" width="400" height="400">
+<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5_large.png" width="400" height="400">  <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_small.png" width="400" height="400">
 </p>
 
 
