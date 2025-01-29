@@ -1,6 +1,6 @@
 # DALI-Data-Challenge-25W
 <p align="center">
-<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5smallg.png" width="450" height="450"> <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_big.png" width="450" height="450">
+<img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result5smallg.png" width="400" height="400"> <img src="https://github.com/bawa27/DALI-Data-Challenge-25W/blob/main/output/images/result7_big.png" width="400" height="400">
 </p>
 
 ## Overview
